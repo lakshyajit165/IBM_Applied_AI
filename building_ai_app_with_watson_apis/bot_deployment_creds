@@ -1,0 +1,37 @@
+Facebook:
+APPid: 664994984289683
+Secret key: a001ff41a92ee30ea5c45e17b01a3ef6	
+
+Token: EAAJczzXQ5ZAMBAHiK4iJcymjqkluPY4aYBrKgT78cS6sIDZBuEoTlKjbnosdTfWZCAVrOGzirgqNtUS2wUK80ngULgf49DIeFFcNPoCxgC24odb5sKTRJVjwN8PQis8Wfl8AkDucZAxZCKVz64ZC6uxZBkPFCTZC5ZCfrfZApO2l5jVATT9P8ZA3WX9
+
+Generated Verify Token: 46b4dca2-0ef8-4c0f-b398-58d4e3146264
+
+Generated Callback URL: https://integrations.eu-gb.assistant.watson.cloud.ibm.com/public/facebook/message/867aad84-4640-4e33-b511-2a901b55c353
+
+
+
+
+
+
+
+
+
+
+
+Slack App:
+APP Id: A012UP2HK3N
+
+Client Id: 850675968340.1096784597124
+
+Client secret: f6fc5a57811aa353061a0549bdc80f03
+
+Signing secret: 084dca62b0142651fc2308f6d880b95e
+
+Verification Token: qhx1DdzYecRWh1w6ZGNkK345
+
+
+Bot User Oauth Access Token: xoxb-850675968340-1089237369941-9mevMEWwQAEOgIluUlRCOsAJ
+
+
+Generated request URL(from Watson's side): https://integrations.eu-gb.assistant.watson.cloud.ibm.com/public/slack/message/54a0aeae-0fa8-40aa-b186-013715037efc
+
