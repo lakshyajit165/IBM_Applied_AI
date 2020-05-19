@@ -1,0 +1,26 @@
+%%bash
+ibmcloud target --cf-api https://api.eu-gb.cf.cloud.ibm.com -r eu-gb -o lakshmeekant@gmail.com
+ibmcloud account space-create computer-vision-app
+ibmcloud cf install
+
+
+ibmcloud cf 
+
+
+
+%%bash
+ibmcloud target --cf-api https://api.REGION.cf.cloud.ibm.com -r REGION -o EMAIL
+ibmcloud account space-create computer-vision-app
+ibmcloud cf install
+
+Then,
+
+• Update "python-3.6.8 to "python-3.6.9" in runtime.txt
+
+• Add line "werkzeug==0.16.1" in requirements.txt
+
+Also, change the name of the app from "computer-vision-app" to anything else that you are comfortable with, e.g-"Shehryar-computer-vision-app", and update the same name in manifest.yml as instructed as mentioned in the Jupyter Notebook of the project.
+
+Let me know if you still face the same.
+
+Thanks, Srishti
